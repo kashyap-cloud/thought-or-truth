@@ -151,46 +151,16 @@ const QuizScreen = ({ questionIdx, feedback, onSwipe, onContinue }: {
         <span style={{ background: '#F0FFF4', color: '#22C55E', border: '1.5px solid #22C55E', borderRadius: 10, padding: '6px 12px', fontSize: 11, fontWeight: 800 }}>True 👉</span>
       </div>
 
-      {/* Card stack */}
+      {/* Single card only */}
       <div style={{ position: 'relative', minHeight: 190 }}>
-        {remaining.slice(0, 3).reverse().map((item, reverseIdx) => {
-          const stackIdx = Math.min(remaining.length, 3) - 1 - reverseIdx;
-          if (stackIdx === 0) {
-            return (
-              <div key={questionIdx + stackIdx} style={{ position: 'relative', zIndex: 2 }}>
-                <SwipeCard
-                  question={item.q}
-                  gradient={item.gradient}
-                  onSwipe={onSwipe}
-                  disabled={!!feedback}
-                />
-              </div>
-            );
-          }
-          const scale = stackIdx === 1 ? 0.96 : 0.92;
-          const opa = stackIdx === 1 ? 0.6 : 0.3;
-          const top = stackIdx === 1 ? 7 : 14;
-          const left = stackIdx === 1 ? 5 : 10;
-          return (
-            <div
-              key={questionIdx + stackIdx}
-              style={{
-                position: 'absolute',
-                top,
-                left,
-                right: -left,
-                zIndex: 2 - stackIdx,
-                transform: `scale(${scale})`,
-                opacity: opa,
-                pointerEvents: 'none',
-              }}
-            >
-              <div style={{ background: item.gradient, borderRadius: 22, padding: '28px 22px', minHeight: 180, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                <p style={{ fontSize: 14, fontWeight: 800, color: '#FFFFFF', textAlign: 'center', margin: 0 }}>{item.q}</p>
-              </div>
-            </div>
-          );
-        })}
+        <div key={questionIdx} style={{ position: 'relative', zIndex: 2 }}>
+          <SwipeCard
+            question={q.q}
+            gradient={q.gradient}
+            onSwipe={onSwipe}
+            disabled={!!feedback}
+          />
+        </div>
       </div>
 
       {/* Feedback */}
