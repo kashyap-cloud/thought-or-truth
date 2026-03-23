@@ -151,16 +151,32 @@ const QuizScreen = ({ questionIdx, feedback, onSwipe, onContinue }: {
         <span style={{ background: '#F0FFF4', color: '#22C55E', border: '1.5px solid #22C55E', borderRadius: 10, padding: '6px 12px', fontSize: 11, fontWeight: 800 }}>True 👉</span>
       </div>
 
-      {/* Single card only */}
+      {/* Card area */}
       <div style={{ position: 'relative', minHeight: 190 }}>
-        <div key={questionIdx} style={{ position: 'relative', zIndex: 2 }}>
-          <SwipeCard
-            question={q.q}
-            gradient={q.gradient}
-            onSwipe={onSwipe}
-            disabled={!!feedback}
-          />
-        </div>
+        {feedback ? (
+          <div style={{
+            background: q.gradient,
+            borderRadius: 22,
+            padding: '28px 22px',
+            minHeight: 180,
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+          }}>
+            <p style={{ fontSize: 14, fontWeight: 800, color: '#FFFFFF', textAlign: 'center', lineHeight: 1.5, margin: 0 }}>
+              {q.q}
+            </p>
+          </div>
+        ) : (
+          <div key={questionIdx} style={{ position: 'relative', zIndex: 2 }}>
+            <SwipeCard
+              question={q.q}
+              gradient={q.gradient}
+              onSwipe={onSwipe}
+              disabled={false}
+            />
+          </div>
+        )}
       </div>
 
       {/* Feedback */}
