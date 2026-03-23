@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "เพียว โอ โอซีดี",
+    "title": "ความคิดหรือความจริง?",
+    "description": "ปัดไปทางซ้ายเพื่อเลือก &quot;เท็จ&quot; / ปัดไปทางขวาเพื่อเลือก &quot;จริง&quot;!",
+    "details": "5 คำถาม · จริงหรือเท็จ",
+    "button": "ไปกันเลย! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "ก่อนที่เราจะเริ่ม",
+    "p1": "สมองของเราสร้างความคิดมากมายหลายประเภททุกวัน แม้แต่ความคิดที่น่ากลัวหรือแปลกประหลาด นั่นไม่ได้หมายความว่าคุณผิดปกติอะไร",
+    "p2": "ในกรณีของ OCD ประเภท Pure O ปัญหาไม่ได้อยู่ที่ความคิดนั้นเอง ปัญหาอยู่ที่ว่าเราให้ความสำคัญกับความคิดนั้นมากแค่ไหน",
+    "button": "ฉันพร้อมแล้ว 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "คำถาม {{current}} จาก {{total}}",
+    "falseHint": "👈 เท็จ",
+    "trueHint": "จริง 👉",
+    "correct": "✅ ถูกต้อง!",
+    "incorrect": "❌ ไม่เชิง!",
+    "continue": "ดำเนินการต่อ →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "อัศจรรย์!",
+    "niceTry": "พยายามได้ดีนะ!",
+    "keepLearning": "เรียนรู้ต่อไป!",
+    "scoreMsg": "คุณได้ {{score}} จาก {{total}} ถูกต้องแล้ว",
+    "heartsMsg": "จำนวนหัวใจที่เหลืออยู่: ",
+    "remember": "จำไว้ว่า: ความคิดก็เป็นเพียงความคิด มันไม่ได้บ่งบอกว่าคุณเป็นใคร 💜",
+    "tryAgain": "ลองใหม่อีกครั้ง 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "การมีความคิดรุนแรงหมายความว่าคุณเป็นบุคคลอันตราย",
+      "correctExplain": "ความคิดไม่ใช่ข้อเท็จจริง ทุกคนล้วนมีความคิดแวบเข้ามาในหัว — ความคิดเหล่านั้นไม่ได้บ่งบอกตัวตนของคุณ",
+      "wrongExplain": "ที่จริงแล้ว การมีความคิดที่น่ากลัวไม่ได้ทำให้คุณเป็นอันตราย ความคิดฟุ้งซ่านเป็นเรื่องปกติ"
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "เกือบทุกคนเคยมีประสบการณ์กับความคิดที่รบกวนจิตใจอย่างน้อยสักครั้งหนึ่งในชีวิต",
+      "correctExplain": "ผลการวิจัยแสดงให้เห็นว่ากว่า 90% ของผู้คนประสบกับความคิดฟุ้งซ่าน คุณไม่ได้อยู่คนเดียว!",
+      "wrongExplain": "ความคิดฟุ้งซ่านเป็นเรื่องที่พบได้บ่อยมาก จากการศึกษาพบว่าเกือบทุกคนเคยมีความคิดแบบนี้"
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "ยิ่งคุณพยายามระงับความคิดมากเท่าไหร่ ความคิดนั้นก็จะยิ่งกลับมามากเท่านั้น",
+      "correctExplain": "ปรากฏการณ์นี้เรียกว่า &#39;ปรากฏการณ์หมีขาว&#39; การกดดันความคิดทำให้ความคิดฝังแน่นยิ่งขึ้น",
+      "wrongExplain": "มันเป็นเรื่องจริง! การพยายามผลักไสความคิดออกไปจะยิ่งทำให้มันกลับมาแรงขึ้น"
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "ถ้าความคิดนั้นรู้สึกเหมือนจริง มันก็ต้องเป็นความจริง",
+      "correctExplain": "ความรู้สึกไม่ใช่ข้อเท็จจริง โรคย้ำคิดย้ำทำทำให้ความคิดรู้สึกเร่งด่วนและเป็นจริง แต่แท้จริงแล้วมันก็เป็นเพียงแค่ความคิด",
+      "wrongExplain": "เพียงเพราะความคิดนั้นดูเหมือนจริง ไม่ได้หมายความว่ามันจะเป็นความจริง โรคย้ำคิดย้ำทำนั้นซับซ้อนอย่างนี้แหละ"
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "การยอมรับความคิดหนึ่งก็เหมือนกับการเห็นด้วยกับความคิดนั้น",
+      "correctExplain": "การยอมรับหมายถึงการปล่อยให้ความคิดนั้นดำรงอยู่โดยไม่ต่อต้าน ไม่ใช่การเห็นด้วยกับความคิดนั้น",
+      "wrongExplain": "การยอมรับ ≠ การเห็นด้วย คุณสามารถรับรู้ความคิดโดยไม่จำเป็นต้องเชื่อหรือปฏิบัติตามความคิดนั้นก็ได้"
     }
   ]
 }

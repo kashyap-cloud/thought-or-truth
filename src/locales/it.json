@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "DOC PURO",
+    "title": "Pensiero o verità?",
+    "description": "Scorri verso sinistra per Falso / Scorri verso destra per Vero!",
+    "details": "5 domande · vero o falso",
+    "button": "Andiamo! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Prima di iniziare",
+    "p1": "Il nostro cervello genera ogni giorno ogni sorta di pensiero, anche spaventoso o bizzarro. Questo non significa che ci sia qualcosa che non va in te.",
+    "p2": "Nel disturbo ossessivo-compulsivo a predominanza ossessiva (DOC) di tipo O puro, il problema non è il pensiero in sé, ma l&#39;importanza che gli attribuiamo.",
+    "button": "Sono pronto 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Domanda {{current}} di {{total}}",
+    "falseHint": "👈 Falso",
+    "trueHint": "Vero 👉",
+    "correct": "✅ Corretto!",
+    "incorrect": "❌ Non proprio!",
+    "continue": "Continua →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Sorprendente!",
+    "niceTry": "Bel tentativo!",
+    "keepLearning": "Continua ad imparare!",
+    "scoreMsg": "Hai ottenuto {{score}} su {{total}} corretto",
+    "heartsMsg": "Cuori rimanenti: ",
+    "remember": "Ricorda: i pensieri sono solo pensieri. Non definiscono chi sei. 💜",
+    "tryAgain": "Riprova 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Avere pensieri violenti significa essere una persona pericolosa.",
+      "correctExplain": "I pensieri non sono fatti. Tutti hanno pensieri intrusivi, ma non ti definiscono.",
+      "wrongExplain": "In realtà, avere un pensiero spaventoso non ti rende pericoloso. I pensieri intrusivi sono normali."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "I pensieri intrusivi sono un&#39;esperienza comune a quasi tutti, prima o poi.",
+      "correctExplain": "Le ricerche dimostrano che oltre il 90% delle persone sperimenta pensieri intrusivi. Non sei solo!",
+      "wrongExplain": "I pensieri intrusivi sono in realtà molto comuni: gli studi dimostrano che quasi tutti ne hanno."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Più si cerca di reprimere un pensiero, più questo ritorna.",
+      "correctExplain": "Questo fenomeno è chiamato &quot;effetto orso bianco&quot;. La soppressione rende i pensieri più persistenti.",
+      "wrongExplain": "È proprio vero! Cercare di allontanare i pensieri non fa altro che farli tornare più forti."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Se un pensiero sembra reale, allora deve essere vero.",
+      "correctExplain": "Le emozioni non sono fatti. Il disturbo ossessivo-compulsivo fa sì che i pensieri sembrino urgenti e reali, ma in realtà sono solo pensieri.",
+      "wrongExplain": "Il fatto che un pensiero sembri reale non significa che sia vero. Il disturbo ossessivo-compulsivo è insidioso proprio per questo."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Accettare un&#39;idea equivale ad essere d&#39;accordo con essa.",
+      "correctExplain": "Accettare significa lasciare che un pensiero esista senza combatterlo, non approvarlo.",
+      "wrongExplain": "Accettazione ≠ accordo. Puoi notare un pensiero senza crederci o agire di conseguenza."
     }
   ]
 }

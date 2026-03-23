@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "SAF OKB",
+    "title": "Düşünce mi, gerçek mi?",
+    "description": "Yanlış için sola kaydırın / Doğru için sağa kaydırın!",
+    "details": "5 soru · doğru veya yanlış",
+    "button": "Haydi gidelim! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Başlamadan önce",
+    "p1": "Beynimiz her gün türlü türlü düşünce üretir; hatta korkutucu veya garip düşünceler bile. Bu, sizinle ilgili bir sorun olduğu anlamına gelmez.",
+    "p2": "Saf Obsesif Kompulsif Bozuklukta, sorun düşüncenin kendisi değil, ona ne kadar önem verdiğimizdir.",
+    "button": "Hazırım 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Soru {{current}} / {{total}}",
+    "falseHint": "👈 Yanlış",
+    "trueHint": "Doğru 👉",
+    "correct": "✅ Doğru!",
+    "incorrect": "❌ Tam olarak değil!",
+    "continue": "Devam →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "İnanılmaz!",
+    "niceTry": "Güzel deneme!",
+    "keepLearning": "Öğrenmeye devam edin!",
+    "scoreMsg": "{{total}}&#39;den {{score}}&#39;ı doğru bildiniz.",
+    "heartsMsg": "Kalan kalpler: ",
+    "remember": "Unutmayın: düşünceler sadece düşüncelerdir. Kim olduğunuzu tanımlamazlar. 💜",
+    "tryAgain": "Tekrar Dene 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Şiddet içeren düşüncelere sahip olmak, tehlikeli bir insan olduğunuz anlamına gelir.",
+      "correctExplain": "Düşünceler gerçekler değildir. Herkesin aklına istenmeyen düşünceler gelir; ancak bu düşünceler sizi tanımlamaz.",
+      "wrongExplain": "Aslında, korkutucu bir düşünceye sahip olmak sizi tehlikeli yapmaz. Rahatsız edici düşünceler normaldir."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "İstemsiz düşünceler neredeyse herkesin hayatının bir döneminde yaşadığı bir durumdur.",
+      "correctExplain": "Araştırmalar, insanların %90&#39;ından fazlasının rahatsız edici düşünceler yaşadığını gösteriyor. Yalnız değilsiniz!",
+      "wrongExplain": "İstemsiz düşünceler aslında çok yaygındır; çalışmalar neredeyse herkesin bunlara sahip olduğunu gösteriyor."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Bir düşünceyi ne kadar bastırmaya çalışırsanız, o kadar geri gelir.",
+      "correctExplain": "Buna &#39;beyaz ayı etkisi&#39; denir. Bastırma, düşünceleri daha da kalıcı hale getirir.",
+      "wrongExplain": "Bu gerçekten doğru! Düşünceleri uzaklaştırmaya çalışmak, onların daha güçlü bir şekilde geri dönmesine neden olur."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Bir düşünce gerçek gibi geliyorsa, doğru olmalıdır.",
+      "correctExplain": "Duygular gerçekler değildir. Obsesif-kompulsif bozukluk (OKB), düşüncelerin acil ve gerçekmiş gibi hissettirmesine neden olur; ancak bunlar sadece düşüncelerdir.",
+      "wrongExplain": "Bir düşüncenin gerçek gibi gelmesi, onun doğru olduğu anlamına gelmez. Obsesif-kompulsif bozukluk bu açıdan oldukça karmaşık."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Bir düşünceyi kabul etmek, o düşünceyle hemfikir olmakla aynı şeydir.",
+      "correctExplain": "Kabul etmek, bir düşüncenin var olmasına izin vermek, onunla savaşmamak, onu onaylamamak anlamına gelir.",
+      "wrongExplain": "Kabul etmek, anlaşmaya varmak anlamına gelmez. Bir düşünceyi fark edebilirsiniz, ancak ona inanmak veya ona göre hareket etmek zorunda değilsiniz."
     }
   ]
 }

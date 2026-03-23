@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "ЧИСТЫЙ ОКР",
+    "title": "Мысль или истина?",
+    "description": "Проведите пальцем влево для «Ложь» / Проведите пальцем вправо для «Истина»!",
+    "details": "5 вопросов · верно или неверно",
+    "button": "Вперед! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Прежде чем мы начнём",
+    "p1": "Наш мозг ежедневно генерирует самые разные мысли — даже пугающие или странные. Это не значит, что с вами что-то не так.",
+    "p2": "При обсессивно-компульсивном расстройстве с чистым ОКР проблема не в самой мысли. Проблема в том, какое значение мы ей придаем.",
+    "button": "Я готова 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Вопрос {{current}} из {{total}}",
+    "falseHint": "👈 Ложь",
+    "trueHint": "Верно 👉",
+    "correct": "✅ Верно!",
+    "incorrect": "❌ Не совсем!",
+    "continue": "Продолжить →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Удивительный!",
+    "niceTry": "Неплохая попытка!",
+    "keepLearning": "Продолжайте учиться!",
+    "scoreMsg": "Вы правильно вычислили {{score}} из {{total}}",
+    "heartsMsg": "Осталось сердец: ",
+    "remember": "Запомните: мысли — это всего лишь мысли. Они не определяют, кто вы есть. 💜",
+    "tryAgain": "Попробуйте ещё раз 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Мысли о насилии означают, что вы опасный человек.",
+      "correctExplain": "Мысли — это не факты. У каждого человека бывают навязчивые мысли — они не определяют вас.",
+      "wrongExplain": "На самом деле, пугающая мысль не делает вас опасным. Навязчивые мысли — это нормально."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "Навязчивые мысли хотя бы раз в жизни испытывает почти каждый человек.",
+      "correctExplain": "Исследования показывают, что более 90% людей испытывают навязчивые мысли. Вы не одиноки!",
+      "wrongExplain": "Навязчивые мысли на самом деле очень распространены — исследования показывают, что они бывают почти у каждого."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Чем больше пытаешься подавить мысль, тем чаще она возвращается.",
+      "correctExplain": "Это называется «эффектом белого медведя». Подавление делает мысли более устойчивыми.",
+      "wrongExplain": "Это действительно так! Попытки оттолкнуть мысли приводят к тому, что они возвращаются с ещё большей силой."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Если мысль кажется реальной, значит, она правдива.",
+      "correctExplain": "Чувства — это не факты. При обсессивно-компульсивном расстройстве мысли кажутся неотложными и реальными, но на самом деле это всего лишь мысли.",
+      "wrongExplain": "То, что мысль кажется реальной, ещё не означает, что она правдива. В этом плане ОКР — сложная штука."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Принять мысль равносильно согласию с ней.",
+      "correctExplain": "Принятие означает позволение мысли существовать, не борясь с ней, а не её одобрение.",
+      "wrongExplain": "Принятие ≠ согласие. Можно заметить мысль, не веря в неё и не действуя в соответствии с ней."
     }
   ]
 }

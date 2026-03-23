@@ -8,7 +8,7 @@
   },
   "before": {
     "title": "Antes de comenzar",
-    "p1": "Nuestro cerebro genera todo tipo de pensamientos a diario, incluso algunos aterradores o extraños. Eso no significa que haya nada malo contigo.",
+    "p1": "Nuestro cerebro genera todo tipo de pensamientos a diario, incluso algunos aterradores o extraños. Eso no significa que tengas ningún problema.",
     "p2": "En el TOC puramente obsesivo, el problema no reside en el pensamiento en sí, sino en la importancia que le damos.",
     "button": "Estoy listo 💪"
   },
@@ -52,8 +52,8 @@
     },
     {
       "q": "Aceptar un pensamiento es lo mismo que estar de acuerdo con él.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "correctExplain": "Aceptar significa dejar que un pensamiento exista sin luchar contra él, no respaldarlo.",
+      "wrongExplain": "Aceptación ≠ acuerdo. Puedes percibir un pensamiento sin creer en él ni actuar en consecuencia."
     }
   ]
 }

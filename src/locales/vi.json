@@ -1,59 +1,59 @@
 {
   "welcome": {
     "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "title": "Suy nghĩ hay sự thật?",
+    "description": "Vuốt sang trái để chọn Sai / Vuốt sang phải để chọn Đúng!",
+    "details": "5 câu hỏi · đúng hay sai",
+    "button": "Đi thôi! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Trước khi chúng ta bắt đầu",
+    "p1": "Bộ não của chúng ta tạo ra đủ loại suy nghĩ mỗi ngày — thậm chí cả những suy nghĩ đáng sợ hoặc kỳ lạ. Điều đó không có nghĩa là bạn có vấn đề gì.",
+    "p2": "Với chứng rối loạn ám ảnh cưỡng chế loại O thuần túy, bản thân suy nghĩ không phải là vấn đề. Vấn đề nằm ở việc chúng ta gán cho nó tầm quan trọng quá lớn.",
+    "button": "Tôi đã sẵn sàng 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Câu hỏi {{current}} của {{total}}",
+    "falseHint": "👈 Sai",
+    "trueHint": "Đúng vậy 👉",
+    "correct": "✅ Chính xác!",
+    "incorrect": "❌ Chưa hẳn!",
+    "continue": "Tiếp tục →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Tuyệt vời!",
+    "niceTry": "Cố gắng tốt đấy!",
+    "keepLearning": "Hãy tiếp tục học hỏi!",
+    "scoreMsg": "Bạn đã trả lời đúng {{score}} trên {{total}}",
+    "heartsMsg": "Số mạng còn lại: ",
+    "remember": "Hãy nhớ: suy nghĩ chỉ là suy nghĩ. Chúng không định nghĩa con người bạn. 💜",
+    "tryAgain": "Thử lại 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Việc có ý nghĩ bạo lực đồng nghĩa với việc bạn là một người nguy hiểm.",
+      "correctExplain": "Suy nghĩ không phải là sự thật. Ai cũng có những suy nghĩ vẩn vơ — chúng không định nghĩa con người bạn.",
+      "wrongExplain": "Thực tế, việc có một suy nghĩ đáng sợ không khiến bạn trở nên nguy hiểm. Những suy nghĩ xâm chiếm tâm trí là điều bình thường."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "Hầu như ai cũng từng trải qua những suy nghĩ xâm nhập vào cuộc sống của mình.",
+      "correctExplain": "Nghiên cứu cho thấy hơn 90% người trải qua những suy nghĩ xâm nhập. Bạn không hề đơn độc!",
+      "wrongExplain": "Những suy nghĩ xâm nhập thực ra rất phổ biến — các nghiên cứu cho thấy hầu như ai cũng có."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Càng cố gắng kìm nén một suy nghĩ, nó càng quay trở lại.",
+      "correctExplain": "Hiện tượng này được gọi là &quot;hiệu ứng gấu trắng&quot;. Việc kìm nén khiến những suy nghĩ trở nên khó xóa nhòa hơn.",
+      "wrongExplain": "Điều đó hoàn toàn đúng! Cố gắng xua đuổi những suy nghĩ tiêu cực chỉ khiến chúng quay trở lại mạnh mẽ hơn."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Nếu một suy nghĩ nào đó mang lại cảm giác chân thực, thì nó hẳn là sự thật.",
+      "correctExplain": "Cảm xúc không phải là sự thật. Rối loạn ám ảnh cưỡng chế khiến những suy nghĩ trở nên cấp bách và có thật — nhưng chúng chỉ là suy nghĩ mà thôi.",
+      "wrongExplain": "Chỉ vì một suy nghĩ có vẻ thật không có nghĩa là nó đúng. Rối loạn ám ảnh cưỡng chế (OCD) rất khó nhận biết ở điểm này."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Chấp nhận một suy nghĩ cũng đồng nghĩa với việc đồng ý với suy nghĩ đó.",
+      "correctExplain": "Chấp nhận có nghĩa là để cho một suy nghĩ tồn tại mà không chống lại nó — không phải là tán thành nó.",
+      "wrongExplain": "Chấp nhận không đồng nghĩa với đồng ý. Bạn có thể nhận thấy một suy nghĩ mà không cần tin tưởng hay hành động theo nó."
     }
   ]
 }

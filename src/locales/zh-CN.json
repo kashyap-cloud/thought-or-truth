@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "纯粹强迫症",
+    "title": "思想还是真理？",
+    "description": "向左滑动表示错误 / 向右滑动表示正确！",
+    "details": "5个问题 · 对或错",
+    "button": "出发！🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "在我们开始之前",
+    "p1": "我们的大脑每天都会产生各种各样的想法——甚至是一些可怕或怪异的想法。但这并不意味着你有什么问题。",
+    "p2": "对于纯粹强迫症（Pure O OCD）而言，问题不在于想法本身，而在于我们赋予它多大的重视程度。",
+    "button": "我准备好了💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "问题 {{current}}（共 {{total}} 题）",
+    "falseHint": "👈 错误",
+    "trueHint": "正确 👉",
+    "correct": "✅ 正确！",
+    "incorrect": "❌ 还不完全是！",
+    "continue": "继续 →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "惊人的！",
+    "niceTry": "不错！",
+    "keepLearning": "持续学习！",
+    "scoreMsg": "你从 {{total}} 中正确抽取了 {{score}}。",
+    "heartsMsg": "剩余红心数： ",
+    "remember": "记住：想法只是想法，它们并不能定义你是谁。💜",
+    "tryAgain": "再试一次🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "有暴力念头意味着你是一个危险人物。",
+      "correctExplain": "想法并非事实。每个人都会有反复出现的想法——但它们并不能定义你。",
+      "wrongExplain": "事实上，脑海中浮现可怕的想法并不会让你变得危险。反复出现侵入性想法是正常的。"
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "几乎每个人都会在某个时候经历强迫性思维。",
+      "correctExplain": "研究表明，超过90%的人都经历过强迫性思维。你并不孤单！",
+      "wrongExplain": "强迫性思维其实非常普遍——研究表明几乎每个人都有。"
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "你越是试图压制某种想法，它就越会再次出现。",
+      "correctExplain": "这被称为“白熊效应”。压抑会使想法更加根深蒂固。",
+      "wrongExplain": "这确实是真的！试图驱散某些想法，反而会让它们更加强烈地反弹回来。"
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "如果一个想法感觉真实，那它一定是真的。",
+      "correctExplain": "感觉并非事实。强迫症会使人产生紧迫而真实的想法——但它们仅仅是想法而已。",
+      "wrongExplain": "仅仅因为一个想法感觉真实，并不意味着它就是真的。强迫症就是这么狡猾。"
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "接受某种想法就等同于同意它。",
+      "correctExplain": "接受意味着允许某种想法存在而不与之对抗——而不是认可它。",
+      "wrongExplain": "接受并不等于认同。你可以注意到某种想法，但不必相信它或按照它行事。"
     }
   ]
 }

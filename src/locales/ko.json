@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "순수 O OCD",
+    "title": "생각인가, 진실인가?",
+    "description": "왼쪽으로 스와이프하면 거짓, 오른쪽으로 스와이프하면 참입니다!",
+    "details": "5개 문제 · 참/거짓",
+    "button": "가자! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "시작하기 전에",
+    "p1": "우리 뇌는 매일 온갖 종류의 생각을 만들어냅니다. 무섭거나 이상한 생각까지도요. 그렇다고 해서 당신에게 문제가 있는 것은 아닙니다.",
+    "p2": "순수 강박장애(Pure O OCD)의 경우, 생각 자체가 문제는 아닙니다. 문제는 우리가 그 생각에 얼마나 큰 중요성을 부여하느냐입니다.",
+    "button": "준비됐어요 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "{{total}}의 {{current}}번 문제",
+    "falseHint": "👈 거짓",
+    "trueHint": "맞아요 👉",
+    "correct": "✅ 정답입니다!",
+    "incorrect": "❌ 꼭 그렇지는 않아요!",
+    "continue": "계속 →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "놀라운!",
+    "niceTry": "잘 시도해 봤어요!",
+    "keepLearning": "계속 배우세요!",
+    "scoreMsg": "{{total}}개 중 {{score}}개를 맞혔습니다.",
+    "heartsMsg": "남은 하트 수: ",
+    "remember": "기억하세요: 생각은 그저 생각일 뿐입니다. 생각이 당신이라는 사람을 규정짓는 것은 아닙니다. 💜",
+    "tryAgain": "다시 시도하세요 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "폭력적인 생각을 한다는 것은 당신이 위험한 사람이라는 것을 의미합니다.",
+      "correctExplain": "생각은 사실이 아닙니다. 누구나 불쑥 떠오르는 생각에 사로잡히곤 하지만, 그 생각들이 당신을 규정짓는 것은 아닙니다.",
+      "wrongExplain": "사실 무서운 생각을 한다고 해서 위험한 사람이 되는 건 아니에요. 불쾌한 생각이 드는 건 정상적인 현상입니다."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "침입적 사고는 거의 모든 사람이 살면서 한 번쯤 경험하는 현상입니다.",
+      "correctExplain": "연구에 따르면 90% 이상의 사람들이 강박적인 생각을 경험합니다. 당신은 혼자가 아닙니다!",
+      "wrongExplain": "침입적 사고는 사실 매우 흔한 현상입니다. 연구에 따르면 거의 모든 사람이 침입적 사고를 경험합니다."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "어떤 생각을 억누르려고 할수록 그 생각은 더욱 강해진다.",
+      "correctExplain": "이것을 &#39;흰곰 효과&#39;라고 합니다. 생각을 억누르면 오히려 생각이 더 강해집니다.",
+      "wrongExplain": "정말 그래요! 생각을 억누르려고 할수록 더 강하게 되돌아오죠."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "어떤 생각이 현실처럼 느껴진다면, 그것은 틀림없이 사실일 것이다.",
+      "correctExplain": "감정은 사실이 아닙니다. 강박증은 생각을 긴급하고 현실적인 것처럼 느끼게 만들지만, 그것들은 단지 생각일 뿐입니다.",
+      "wrongExplain": "어떤 생각이 현실처럼 느껴진다고 해서 그것이 사실인 것은 아닙니다. 강박증은 그런 점에서 까다롭습니다."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "어떤 생각을 받아들이는 것은 그 생각에 동의하는 것과 같습니다.",
+      "correctExplain": "수용이란 어떤 생각이 존재하도록 내버려 두는 것이지, 그 생각을 옹호하는 것이 아닙니다.",
+      "wrongExplain": "수용과 동의는 다릅니다. 생각을 알아차린다고 해서 반드시 그 생각을 믿거나 그에 따라 행동하는 것은 아닙니다."
     }
   ]
 }

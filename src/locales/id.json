@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "OCD MURNI",
+    "title": "Pikiran atau Kebenaran?",
+    "description": "Geser ke kiri untuk Salah / Geser ke kanan untuk Benar!",
+    "details": "5 pertanyaan · benar atau salah",
+    "button": "Ayo berangkat! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Sebelum kita mulai",
+    "p1": "Otak kita menciptakan berbagai macam pikiran setiap hari — bahkan pikiran yang menakutkan atau aneh. Itu tidak berarti ada sesuatu yang salah dengan Anda.",
+    "p2": "Pada OCD tipe Pure O, pikiran itu sendiri bukanlah masalahnya. Masalahnya adalah seberapa besar kita memberi bobot pada pikiran tersebut.",
+    "button": "Aku Siap 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Pertanyaan {{current}} dari {{total}}",
+    "falseHint": "👈 Salah",
+    "trueHint": "Benar 👉",
+    "correct": "✅ Benar!",
+    "incorrect": "❌ Belum tepat!",
+    "continue": "Lanjutkan →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Luar biasa!",
+    "niceTry": "Usaha yang bagus!",
+    "keepLearning": "Terus belajar!",
+    "scoreMsg": "Anda mendapatkan {{score}} dari {{total}} dengan benar.",
+    "heartsMsg": "Sisa hati: ",
+    "remember": "Ingat: pikiran hanyalah pikiran. Pikiran tidak mendefinisikan siapa dirimu. 💜",
+    "tryAgain": "Coba Lagi 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Memiliki pikiran kekerasan berarti Anda adalah orang yang berbahaya.",
+      "correctExplain": "Pikiran bukanlah fakta. Setiap orang memiliki pikiran yang mengganggu — pikiran-pikiran itu tidak mendefinisikan diri Anda.",
+      "wrongExplain": "Sebenarnya, memiliki pikiran yang menakutkan tidak membuat Anda berbahaya. Pikiran yang mengganggu adalah hal yang normal."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "Pikiran yang mengganggu dialami oleh hampir setiap orang pada suatu waktu.",
+      "correctExplain": "Penelitian menunjukkan bahwa lebih dari 90% orang mengalami pikiran yang mengganggu. Anda tidak sendirian!",
+      "wrongExplain": "Pikiran yang mengganggu sebenarnya sangat umum — penelitian menunjukkan hampir setiap orang mengalaminya."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Semakin Anda mencoba menekan suatu pikiran, semakin pikiran itu akan kembali.",
+      "correctExplain": "Ini disebut &#39;efek beruang putih&#39;. Penekanan membuat pikiran menjadi lebih sulit dihilangkan.",
+      "wrongExplain": "Itu benar adanya! Mencoba menyingkirkan pikiran justru membuat pikiran itu kembali dengan lebih kuat."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Jika suatu pikiran terasa nyata, maka pikiran itu pasti benar.",
+      "correctExplain": "Perasaan bukanlah fakta. OCD membuat pikiran terasa mendesak dan nyata — tetapi itu hanyalah pikiran.",
+      "wrongExplain": "Hanya karena sebuah pikiran terasa nyata, bukan berarti pikiran itu benar. OCD memang rumit dalam hal ini."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Menerima suatu pemikiran sama artinya dengan menyetujuinya.",
+      "correctExplain": "Penerimaan berarti membiarkan suatu pikiran ada tanpa melawannya — bukan berarti mendukungnya.",
+      "wrongExplain": "Penerimaan ≠ persetujuan. Anda dapat menyadari suatu pikiran tanpa mempercayainya atau bertindak berdasarkan pikiran tersebut."
     }
   ]
 }

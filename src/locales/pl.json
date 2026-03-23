@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "CZYSTE OCD",
+    "title": "Myśl czy prawda?",
+    "description": "Przesuń w lewo, aby sprawdzić fałsz / Przesuń w prawo, aby sprawdzić prawdę!",
+    "details": "5 pytań · prawda czy fałsz",
+    "button": "No to lecimy! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Zanim zaczniemy",
+    "p1": "Nasz mózg codziennie generuje najróżniejsze myśli – nawet te przerażające i dziwne. To nie znaczy, że coś z tobą nie tak.",
+    "p2": "W przypadku OCD Pure O sama myśl nie stanowi problemu. Problemem jest to, jak dużą wagę jej nadajemy.",
+    "button": "Jestem gotowy 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Pytanie {{current}} z {{total}}",
+    "falseHint": "👈 Fałsz",
+    "trueHint": "Prawda 👉",
+    "correct": "✅ Zgadza się!",
+    "incorrect": "❌ Nie do końca!",
+    "continue": "Kontynuuj →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Niesamowity!",
+    "niceTry": "Ładna próba!",
+    "keepLearning": "Ucz się dalej!",
+    "scoreMsg": "Udało Ci się poprawnie obliczyć {{score}} z {{total}}",
+    "heartsMsg": "Pozostałe serca: ",
+    "remember": "Pamiętaj: myśli to tylko myśli. Nie definiują tego, kim jesteś. 💜",
+    "tryAgain": "Spróbuj ponownie 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Jeśli masz gwałtowne myśli, oznacza to, że jesteś niebezpieczną osobą.",
+      "correctExplain": "Myśli nie są faktami. Każdy ma natrętne myśli – one cię nie definiują.",
+      "wrongExplain": "Tak naprawdę, sama myśl o czymś przerażającym nie czyni cię niebezpiecznym. Natrętne myśli są normalne."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "Natrętne myśli pojawiają się u niemal każdego człowieka w pewnym momencie życia.",
+      "correctExplain": "Badania pokazują, że ponad 90% ludzi doświadcza natrętnych myśli. Nie jesteś sam!",
+      "wrongExplain": "Natrętne myśli są w rzeczywistości bardzo powszechne — badania pokazują, że miewa je niemal każdy."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Im bardziej starasz się stłumić myśl, tym częściej ona powraca.",
+      "correctExplain": "Zjawisko to nazywa się „efektem białego niedźwiedzia”. Tłumienie myśli sprawia, że stają się one bardziej przylepne.",
+      "wrongExplain": "To prawda! Próba odepchnięcia myśli sprawia, że wracają silniejsze."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Jeśli myśl wydaje się realna, to musi być prawdziwa.",
+      "correctExplain": "Uczucia nie są faktami. OCD sprawia, że myśli wydają się pilne i realne — ale to tylko myśli.",
+      "wrongExplain": "To, że myśl wydaje się realna, nie oznacza, że jest prawdziwa. Pod tym względem OCD jest podstępne."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Akceptacja myśli jest tym samym, co zgoda na nią.",
+      "correctExplain": "Akceptacja oznacza pozwolenie myślom istnieć, nie sprzeciwiając się im, a nie je popierając.",
+      "wrongExplain": "Akceptacja ≠ zgoda. Możesz zauważyć myśl, nie wierząc w nią ani nie działając pod jej wpływem."
     }
   ]
 }

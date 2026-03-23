@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "प्योर ओ ओसीडी",
+    "title": "विचार या सत्य?",
+    "description": "गलत के लिए बाईं ओर स्वाइप करें / सही के लिए दाईं ओर स्वाइप करें!",
+    "details": "5 प्रश्न · सही या गलत",
+    "button": "चलो चलें! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "शुरू करने से पहले",
+    "p1": "हमारा दिमाग हर दिन तरह-तरह के विचार पैदा करता है—यहां तक कि डरावने या अजीबोगरीब विचार भी। इसका मतलब यह नहीं है कि आप में कुछ गलत है।",
+    "p2": "प्योर ओ ओसीडी में, समस्या स्वयं विचार नहीं होता। समस्या यह है कि हम उस विचार को कितना महत्व देते हैं।",
+    "button": "मैं तैयार हूँ 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "प्रश्न {{current}} का {{total}}",
+    "falseHint": "👈 गलत",
+    "trueHint": "सच 👉",
+    "correct": "✅ सही!",
+    "incorrect": "❌ बिलकुल नहीं!",
+    "continue": "जारी रखें →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "अद्भुत!",
+    "niceTry": "अच्छी कोशिश!",
+    "keepLearning": "सीखते रखना!",
+    "scoreMsg": "आपने {{total}} में से {{score}} सही किया।",
+    "heartsMsg": "शेष हृदय: ",
+    "remember": "याद रखें: विचार मात्र होते हैं। वे यह परिभाषित नहीं करते कि आप कौन हैं। 💜",
+    "tryAgain": "पुनः प्रयास करें 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "हिंसात्मक विचार आना ही खतरनाक व्यक्ति होने का संकेत है।",
+      "correctExplain": "विचार तथ्य नहीं होते। हर किसी के मन में अनचाहे विचार आते हैं - लेकिन वे आपकी पहचान नहीं बनाते।",
+      "wrongExplain": "दरअसल, डरावने विचार आना आपको खतरनाक नहीं बनाता। अनचाहे विचार आना सामान्य बात है।"
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "लगभग हर किसी को कभी न कभी अवांछित विचारों का अनुभव होता है।",
+      "correctExplain": "शोध से पता चलता है कि 90% से अधिक लोग अवांछित विचारों का अनुभव करते हैं। आप अकेले नहीं हैं!",
+      "wrongExplain": "अवांछित विचार वास्तव में बहुत आम हैं - अध्ययनों से पता चलता है कि लगभग हर किसी को ऐसे विचार आते हैं।"
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "आप किसी विचार को जितना दबाने की कोशिश करेंगे, वह उतना ही वापस आएगा।",
+      "correctExplain": "इसे &#39;सफेद भालू प्रभाव&#39; कहा जाता है। दमन विचारों को और अधिक स्थिर बना देता है।",
+      "wrongExplain": "यह बिल्कुल सच है! विचारों को दूर धकेलने की कोशिश करने से वे और भी अधिक शक्तिशाली होकर वापस आते हैं।"
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "यदि कोई विचार वास्तविक प्रतीत होता है, तो वह सत्य ही होना चाहिए।",
+      "correctExplain": "भावनाएं तथ्य नहीं होतीं। ओसीडी की वजह से विचार अत्यावश्यक और वास्तविक प्रतीत होते हैं — लेकिन वे केवल विचार ही होते हैं।",
+      "wrongExplain": "किसी विचार का वास्तविक प्रतीत होना ही उसे सत्य नहीं बना देता। ऑब्सेसिव कंपल्सिव डिसऑर्डर (OCD) इसी तरह पेचीदा होता है।"
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "किसी विचार को स्वीकार करना उससे सहमत होने के समान है।",
+      "correctExplain": "स्वीकृति का अर्थ है किसी विचार का विरोध किए बिना उसे अस्तित्व में रहने देना—न कि उसका समर्थन करना।",
+      "wrongExplain": "स्वीकृति का अर्थ सहमति नहीं है। आप किसी विचार को बिना उस पर विश्वास किए या उस पर अमल किए भी देख सकते हैं।"
     }
   ]
 }

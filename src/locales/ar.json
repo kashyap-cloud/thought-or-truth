@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "الوسواس القهري النقي",
+    "title": "فكر أم حقيقة؟",
+    "description": "اسحب لليسار للإجابة بـ &quot;خطأ&quot; / اسحب لليمين للإجابة بـ &quot;صحيح&quot;!",
+    "details": "5 أسئلة · صح أم خطأ",
+    "button": "هيا بنا! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "قبل أن نبدأ",
+    "p1": "يُنتج دماغنا أنواعًا مختلفة من الأفكار يوميًا، حتى تلك المخيفة أو الغريبة. وهذا لا يعني أن هناك أي خطأ فيك.",
+    "p2": "في حالة الوسواس القهري من النوع &quot;O&quot; النقي، لا تكمن المشكلة في الفكرة نفسها، بل في مدى الأهمية التي نوليها لها.",
+    "button": "أنا جاهز 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "السؤال {{current}} من {{total}}",
+    "falseHint": "👈 خطأ",
+    "trueHint": "صحيح 👉",
+    "correct": "✅ صحيح!",
+    "incorrect": "❌ ليس تماماً!",
+    "continue": "متابعة →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "مدهش!",
+    "niceTry": "محاولة جيدة!",
+    "keepLearning": "استمر في التعلم!",
+    "scoreMsg": "لقد حصلت على {{score}} من {{total}} بشكل صحيح",
+    "heartsMsg": "القلوب المتبقية: ",
+    "remember": "تذكر: الأفكار مجرد أفكار، لا تحدد هويتك. 💜",
+    "tryAgain": "حاول مرة أخرى 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "إن وجود أفكار عنيفة يعني أنك شخص خطير.",
+      "correctExplain": "الأفكار ليست حقائق. كل شخص لديه أفكار متطفلة - إنها لا تحدد هويتك.",
+      "wrongExplain": "في الحقيقة، لا تجعلك الأفكار المخيفة شخصاً خطيراً. فالأفكار المتطفلة أمر طبيعي."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "يعاني الجميع تقريباً من الأفكار المتطفلة في مرحلة ما من حياتهم.",
+      "correctExplain": "تشير الأبحاث إلى أن أكثر من 90% من الناس يعانون من أفكار متطفلة. لست وحدك!",
+      "wrongExplain": "الأفكار المتطفلة شائعة جداً في الواقع - تشير الدراسات إلى أن الجميع تقريباً يعانون منها."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "كلما حاولت قمع فكرة ما، كلما عادت إليك.",
+      "correctExplain": "يُطلق على هذا اسم &quot;تأثير الدب الأبيض&quot;. الكبت يجعل الأفكار أكثر رسوخاً.",
+      "wrongExplain": "هذا صحيح بالفعل! محاولة طرد الأفكار تجعلها تعود بقوة أكبر."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "إذا شعرتَ بأن فكرة ما حقيقية، فلا بد أنها صحيحة.",
+      "correctExplain": "المشاعر ليست حقائق. الوسواس القهري يجعل الأفكار تبدو ملحة وحقيقية - لكنها مجرد أفكار.",
+      "wrongExplain": "مجرد الشعور بأن فكرة ما حقيقية لا يجعلها بالضرورة صحيحة. الوسواس القهري معقد من هذه الناحية."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "قبول فكرة ما هو نفسه الموافقة عليها.",
+      "correctExplain": "القبول يعني السماح للفكرة بالوجود دون مقاومتها - وليس تأييدها.",
+      "wrongExplain": "القبول لا يعني الموافقة. يمكنك ملاحظة فكرة ما دون تصديقها أو التصرف بناءً عليها."
     }
   ]
 }

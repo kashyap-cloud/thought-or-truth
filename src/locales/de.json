@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "Reiner O-Zwangs-Zwang",
+    "title": "Gedanke oder Wahrheit?",
+    "description": "Wischen Sie nach links für Falsch / Wischen Sie nach rechts für Wahr!",
+    "details": "5 Fragen · Richtig oder falsch",
+    "button": "Auf geht&#39;s! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Bevor wir beginnen",
+    "p1": "Unser Gehirn produziert täglich alle möglichen Gedanken – sogar beängstigende oder seltsame. Das bedeutet nicht, dass mit dir etwas nicht stimmt.",
+    "p2": "Bei der reinen Zwangsstörung (Pure O OCD) ist nicht der Gedanke an sich das Problem. Das Problem ist, wie viel Bedeutung wir ihm beimessen.",
+    "button": "Ich bin bereit 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Frage {{current}} von {{total}}",
+    "falseHint": "👈 Falsch",
+    "trueHint": "Wahr 👉",
+    "correct": "✅ Korrekt!",
+    "incorrect": "❌ Nicht ganz!",
+    "continue": "Weiter →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Toll!",
+    "niceTry": "Netter Versuch!",
+    "keepLearning": "Lernen Sie weiter!",
+    "scoreMsg": "Du hast {{score}} aus {{total}} richtig erhalten.",
+    "heartsMsg": "Verbleibende Herzen: ",
+    "remember": "Denk daran: Gedanken sind nur Gedanken. Sie definieren nicht, wer du bist. 💜",
+    "tryAgain": "Erneut versuchen 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Gewalttätige Gedanken zu haben bedeutet, dass man eine gefährliche Person ist.",
+      "correctExplain": "Gedanken sind keine Tatsachen. Jeder hat aufdringliche Gedanken – sie definieren einen nicht.",
+      "wrongExplain": "Tatsächlich macht Sie ein beängstigender Gedanke nicht gefährlich. Aufdringliche Gedanken sind normal."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "Fast jeder Mensch erlebt irgendwann einmal aufdringliche Gedanken.",
+      "correctExplain": "Studien zeigen, dass über 90 % der Menschen von aufdringlichen Gedanken geplagt werden. Sie sind nicht allein!",
+      "wrongExplain": "Aufdringliche Gedanken sind tatsächlich sehr verbreitet – Studien zeigen, dass fast jeder sie hat."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Je mehr man versucht, einen Gedanken zu unterdrücken, desto stärker kommt er wieder.",
+      "correctExplain": "Dies wird als „Weißbäreneffekt“ bezeichnet. Unterdrückte Gedanken machen sie hartnäckiger.",
+      "wrongExplain": "Das stimmt tatsächlich! Wenn man versucht, Gedanken zu verdrängen, kehren sie nur umso stärker zurück."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Wenn sich ein Gedanke real anfühlt, muss er wahr sein.",
+      "correctExplain": "Gefühle sind keine Tatsachen. Zwangsstörungen lassen Gedanken dringlich und real erscheinen – aber es sind nur Gedanken.",
+      "wrongExplain": "Nur weil sich ein Gedanke real anfühlt, heißt das nicht, dass er wahr ist. Zwangsstörungen sind in dieser Hinsicht tückisch."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Einen Gedanken zu akzeptieren bedeutet, ihm zuzustimmen.",
+      "correctExplain": "Akzeptanz bedeutet, einen Gedanken zuzulassen, ohne ihn zu bekämpfen – ihn also nicht zu befürworten.",
+      "wrongExplain": "Akzeptanz ist nicht gleich Zustimmung. Man kann einen Gedanken wahrnehmen, ohne ihn zu glauben oder danach zu handeln."
     }
   ]
 }

@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "純粋強迫性障害",
+    "title": "思考か、真実か？",
+    "description": "左にスワイプするとFalse、右にスワイプするとTrueです！",
+    "details": "5つの質問 · 正誤問題",
+    "button": "さあ行こう！🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "始める前に",
+    "p1": "私たちの脳は毎日、恐ろしいものや奇妙なものも含め、あらゆる種類の思考を生み出します。それは決してあなたに何か問題があるという意味ではありません。",
+    "p2": "純粋強迫性障害（Pure O OCD）の場合、問題は思考そのものではありません。問題は、その思考にどれだけの重要性を与えるかということです。",
+    "button": "準備はできています💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "質問 {{current}} / {{total}}",
+    "falseHint": "👈 偽",
+    "trueHint": "本当です👉",
+    "correct": "✅ 正解です！",
+    "incorrect": "❌ ちょっと違います！",
+    "continue": "続ける →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "すばらしい！",
+    "niceTry": "惜しかったね！",
+    "keepLearning": "学び続けよう！",
+    "scoreMsg": "{{total}} から {{score}} を正しく取得しました。",
+    "heartsMsg": "残りのハート数： ",
+    "remember": "覚えておいてください。思考はただの思考です。思考があなた自身を定義するわけではありません。💜",
+    "tryAgain": "もう一度試してください🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "暴力的な考えを持つということは、あなたが危険な人物であることを意味する。",
+      "correctExplain": "思考は事実ではありません。誰しもが侵入思考を抱えますが、それがあなた自身を定義するものではありません。",
+      "wrongExplain": "実際、怖い考えが浮かんだからといって、あなたが危険人物になるわけではありません。侵入思考はごく普通のことです。"
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "侵入思考は、ほとんどすべての人が人生のある時点で経験するものです。",
+      "correctExplain": "調査によると、90%以上の人が侵入思考を経験しています。あなたは一人ではありません！",
+      "wrongExplain": "侵入思考は実は非常に一般的で、研究によるとほとんどすべての人が経験している。"
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "考えを抑え込もうとすればするほど、その考えはより強く戻ってくる。",
+      "correctExplain": "これは「白熊効果」と呼ばれている。抑制することで、思考はより定着しやすくなる。",
+      "wrongExplain": "それは本当です！考えを遠ざけようとすればするほど、それらはより強くなって戻ってきます。"
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "考えが現実味を帯びていると感じるなら、それは真実であるに違いない。",
+      "correctExplain": "感情は事実ではない。強迫性障害は思考を切迫した現実のように感じさせるが、それは単なる思考に過ぎない。",
+      "wrongExplain": "考えが現実味を帯びているからといって、それが真実とは限らない。強迫性障害はそういう厄介なものだ。"
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "ある考えを受け入れることは、その考えに同意することと同じである。",
+      "correctExplain": "受け入れるということは、ある考えに抵抗することなく、その考えが存在することを認めることであり、その考えを支持することではない。",
+      "wrongExplain": "受け入れることと同意することは違います。考えに気づくことはできても、それを信じたり、それに基づいて行動したりする必要はありません。"
     }
   ]
 }

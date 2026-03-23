@@ -1,59 +1,59 @@
 {
   "welcome": {
     "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "title": "Kaisipan o Katotohanan?",
+    "description": "Mag-swipe pakaliwa para sa Mali / Mag-swipe pakanan para sa Totoo!",
+    "details": "5 tanong · tama o mali",
+    "button": "Tara na! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "Bago tayo magsimula",
+    "p1": "Ang ating utak ay lumilikha ng lahat ng uri ng kaisipan araw-araw — kahit na nakakatakot o kakaiba. Hindi ibig sabihin nito ay may mali sa iyo.",
+    "p2": "Sa Pure O OCD, ang mismong kaisipan ay hindi ang problema. Ang problema ay kung gaano natin ito binibigyan ng kahalagahan.",
+    "button": "Handa na ako 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "Tanong {{current}} ng {{total}}",
+    "falseHint": "👈 Mali",
+    "trueHint": "Totoo 👉",
+    "correct": "✅ Tama!",
+    "incorrect": "❌ Hindi pa talaga!",
+    "continue": "Magpatuloy →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "Kamangha-mangha!",
+    "niceTry": "Magandang Pagsubok!",
+    "keepLearning": "Patuloy na Mag-aral!",
+    "scoreMsg": "Tama ang nakuha mong {{score}} mula sa {{total}}",
+    "heartsMsg": "Mga natitirang puso: ",
+    "remember": "Tandaan: ang mga iniisip ay mga iniisip lamang. Hindi nito tinutukoy kung sino ka. 💜",
+    "tryAgain": "Subukan Muli 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "Ang pagkakaroon ng marahas na kaisipan ay nangangahulugan na ikaw ay isang mapanganib na tao.",
+      "correctExplain": "Ang mga kaisipan ay hindi katotohanan. Lahat ay may mga mapanghimasok na kaisipan — hindi ka nila binibigyang kahulugan.",
+      "wrongExplain": "Sa totoo lang, ang pagkakaroon ng nakakatakot na kaisipan ay hindi nangangahulugang mapanganib ka. Normal lang ang mga nakakaabala na kaisipan."
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "Ang mga nakakaabala na kaisipan ay nararanasan halos lahat sa isang punto.",
+      "correctExplain": "Ipinapakita ng pananaliksik na mahigit 90% ng mga tao ang nakakaranas ng mga nakakaabala na kaisipan. Hindi ka nag-iisa!",
+      "wrongExplain": "Ang mga mapanghimasok na kaisipan ay talagang karaniwan — ipinapakita ng mga pag-aaral na halos lahat ay mayroon nito."
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "Habang sinusubukan mong pigilan ang isang kaisipan, lalo itong bumabalik.",
+      "correctExplain": "Ito ay tinatawag na &#39;epekto ng puting oso.&#39; Ang pagpigil ay nagpapadilim sa mga iniisip.",
+      "wrongExplain": "Totoo naman talaga! Ang pagsisikap na itaboy ang mga iniisip ay nagpapatibay sa mga ito."
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "Kung ang isang kaisipan ay tila totoo, dapat itong totoo.",
+      "correctExplain": "Ang mga damdamin ay hindi katotohanan. Ang OCD ay nagpaparamdam sa mga iniisip na apurahan at totoo — ngunit ang mga ito ay mga kaisipan lamang.",
+      "wrongExplain": "Hindi porket totoo ang isang kaisipan ay totoo na ito. Mahirap ang OCD sa ganoong paraan."
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "Ang pagtanggap sa isang kaisipan ay katumbas ng pagsang-ayon dito.",
+      "correctExplain": "Ang pagtanggap ay nangangahulugang hayaang umiral ang isang kaisipan nang hindi ito nilalabanan — hindi sinusuportahan ito.",
+      "wrongExplain": "Pagtanggap ≠ pagsang-ayon. Mapapansin mo ang isang kaisipan nang hindi mo ito pinaniniwalaan o kinukunsinti."
     }
   ]
 }

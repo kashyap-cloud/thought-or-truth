@@ -1,59 +1,59 @@
 {
   "welcome": {
-    "badge": "PURE O OCD",
-    "title": "Thought or Truth?",
-    "description": "Swipe left for False / Swipe right for True!",
-    "details": "5 questions · true or false",
-    "button": "Let's Go! 🚀"
+    "badge": "বিশুদ্ধ ও ওসিডি",
+    "title": "চিন্তা নাকি সত্য?",
+    "description": "মিথ্যার জন্য বামে সোয়াইপ করুন / সত্যের জন্য ডানে সোয়াইপ করুন!",
+    "details": "৫টি প্রশ্ন · সত্য বা মিথ্যা",
+    "button": "চলো যাই! 🚀"
   },
   "before": {
-    "title": "Before we start",
-    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
-    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
-    "button": "I'm Ready 💪"
+    "title": "আমরা শুরু করার আগে",
+    "p1": "আমাদের মস্তিষ্ক প্রতিদিন নানা ধরনের চিন্তা তৈরি করে—এমনকি ভীতিকর বা অদ্ভুত চিন্তাও। তার মানে এই নয় যে আপনার কোনো সমস্যা আছে।",
+    "p2": "পিওর ও ওসিডি-তে, চিন্তাটি নিজে সমস্যা নয়। সমস্যা হলো আমরা সেটিকে কতটা গুরুত্ব দিই।",
+    "button": "আমি প্রস্তুত 💪"
   },
   "quiz": {
-    "questionCount": "Question {{current}} of {{total}}",
-    "falseHint": "👈 False",
-    "trueHint": "True 👉",
-    "correct": "✅ Correct!",
-    "incorrect": "❌ Not quite!",
-    "continue": "Continue →"
+    "questionCount": "{{total}} এর {{current}} প্রশ্ন",
+    "falseHint": "👈 মিথ্যা",
+    "trueHint": "সত্যি 👉",
+    "correct": "✅ সঠিক!",
+    "incorrect": "❌ ঠিক না!",
+    "continue": "চালিয়ে যান →"
   },
   "results": {
-    "amazing": "Amazing!",
-    "niceTry": "Nice Try!",
-    "keepLearning": "Keep Learning!",
-    "scoreMsg": "You got {{score}} out of {{total}} correct",
-    "heartsMsg": "Hearts remaining: ",
-    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
-    "tryAgain": "Try Again 🔄"
+    "amazing": "অসাধারণ!",
+    "niceTry": "ভালো চেষ্টা!",
+    "keepLearning": "শিখতে থাকুন!",
+    "scoreMsg": "আপনি {{total}} এর মধ্যে {{score}} সঠিক পেয়েছেন।",
+    "heartsMsg": "অবশিষ্ট হার্ট: ",
+    "remember": "মনে রাখবেন: চিন্তা শুধুই চিন্তা। তা আপনার পরিচয় নির্ধারণ করে না। 💜",
+    "tryAgain": "আবার চেষ্টা করুন 🔄"
   },
   "questions": [
     {
-      "q": "Having a violent thought means you're a dangerous person.",
-      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
-      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+      "q": "হিংসাত্মক চিন্তা করার অর্থ হলো আপনি একজন বিপজ্জনক ব্যক্তি।",
+      "correctExplain": "চিন্তা কোনো বাস্তব ঘটনা নয়। সবার মনেই অনাকাঙ্ক্ষিত চিন্তা আসে — সেগুলো আপনার পরিচয় নির্ধারণ করে না।",
+      "wrongExplain": "আসলে, ভয়ঙ্কর চিন্তা আসা মানেই আপনি বিপজ্জনক নন। অনাকাঙ্ক্ষিত চিন্তা আসা স্বাভাবিক।"
     },
     {
-      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
-      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
-      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+      "q": "জীবনের কোনো না কোনো সময়ে প্রায় প্রত্যেকেই অনাকাঙ্ক্ষিত চিন্তার সম্মুখীন হন।",
+      "correctExplain": "গবেষণায় দেখা গেছে, ৯০ শতাংশেরও বেশি মানুষ অনাকাঙ্ক্ষিত চিন্তার সম্মুখীন হন। আপনি একা নন!",
+      "wrongExplain": "অনাকাঙ্ক্ষিত চিন্তা আসলে খুবই সাধারণ — গবেষণায় দেখা গেছে প্রায় সবারই এমনটা হয়।"
     },
     {
-      "q": "The more you try to suppress a thought, the more it comes back.",
-      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
-      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+      "q": "আপনি একটি চিন্তাকে যত বেশি দমন করার চেষ্টা করবেন, সেটি তত বেশি ফিরে আসবে।",
+      "correctExplain": "একে &#39;সাদা ভালুক প্রভাব&#39; বলা হয়। দমন করলে চিন্তাগুলো আরও স্থায়ী হয়।",
+      "wrongExplain": "এটা আসলেই সত্যি! চিন্তাগুলোকে দূরে সরিয়ে দেওয়ার চেষ্টা করলে সেগুলো আরও শক্তিশালী হয়ে ফিরে আসে।"
     },
     {
-      "q": "If a thought feels real, it must be true.",
-      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
-      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+      "q": "কোনো চিন্তা যদি বাস্তব বলে মনে হয়, তবে তা অবশ্যই সত্য।",
+      "correctExplain": "অনুভূতি কোনো বাস্তব ঘটনা নয়। ওসিডি-র কারণে চিন্তাগুলো জরুরি ও বাস্তব বলে মনে হয় — কিন্তু সেগুলো শুধুই চিন্তা।",
+      "wrongExplain": "কোনো চিন্তা বাস্তব মনে হলেই তা সত্যি হয়ে যায় না। ওসিডি এই দিক দিয়েই বেশ জটিল।"
     },
     {
-      "q": "Accepting a thought is the same as agreeing with it.",
-      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
-      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+      "q": "কোনো চিন্তাকে গ্রহণ করা আর তার সঙ্গে একমত হওয়া একই কথা।",
+      "correctExplain": "স্বীকৃতি মানে কোনো চিন্তাকে তার বিরোধিতা না করে অস্তিত্বে থাকতে দেওয়া—তাকে সমর্থন করা নয়।",
+      "wrongExplain": "গ্রহণ করা মানেই সম্মতি দেওয়া নয়। আপনি কোনো চিন্তাকে বিশ্বাস না করে বা সে অনুযায়ী কাজ না করেও তা লক্ষ্য করতে পারেন।"
     }
   ]
 }
