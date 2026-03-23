@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "TOC PURO",
+    "title": "¿Pensamiento o verdad?",
+    "description": "Desliza hacia la izquierda para Falso / Desliza hacia la derecha para Verdadero.",
+    "details": "5 preguntas · verdadero o falso",
+    "button": "¡Vamos! 🚀"
+  },
+  "before": {
+    "title": "Antes de comenzar",
+    "p1": "Nuestro cerebro genera todo tipo de pensamientos a diario, incluso algunos aterradores o extraños. Eso no significa que haya nada malo contigo.",
+    "p2": "En el TOC puramente obsesivo, el problema no reside en el pensamiento en sí, sino en la importancia que le damos.",
+    "button": "Estoy listo 💪"
+  },
+  "quiz": {
+    "questionCount": "Pregunta {{current}} de {{total}}",
+    "falseHint": "👈 Falso",
+    "trueHint": "Cierto 👉",
+    "correct": "✅ ¡Correcto!",
+    "incorrect": "❌ ¡No del todo!",
+    "continue": "Continuar →"
+  },
+  "results": {
+    "amazing": "¡Asombroso!",
+    "niceTry": "¡Buen intento!",
+    "keepLearning": "¡Sigue aprendiendo!",
+    "scoreMsg": "Obtuviste {{score}} de {{total}} correctamente",
+    "heartsMsg": "Corazones restantes: ",
+    "remember": "Recuerda: los pensamientos son solo pensamientos. No definen quién eres. 💜",
+    "tryAgain": "Inténtalo de nuevo 🔄"
+  },
+  "questions": [
+    {
+      "q": "Tener pensamientos violentos significa que eres una persona peligrosa.",
+      "correctExplain": "Los pensamientos no son hechos. Todo el mundo tiene pensamientos intrusivos; no te definen.",
+      "wrongExplain": "En realidad, tener un pensamiento aterrador no te convierte en una persona peligrosa. Los pensamientos intrusivos son normales."
+    },
+    {
+      "q": "Casi todo el mundo experimenta pensamientos intrusivos en algún momento.",
+      "correctExplain": "Las investigaciones demuestran que más del 90 % de las personas experimentan pensamientos intrusivos. ¡No estás solo!",
+      "wrongExplain": "Los pensamientos intrusivos son, en realidad, muy comunes; los estudios demuestran que casi todo el mundo los tiene."
+    },
+    {
+      "q": "Cuanto más intentas reprimir un pensamiento, más vuelve.",
+      "correctExplain": "Esto se conoce como el &quot;efecto del oso blanco&quot;. La supresión hace que los pensamientos sean más persistentes.",
+      "wrongExplain": "¡Es totalmente cierto! Intentar alejar los pensamientos solo hace que regresen con más fuerza."
+    },
+    {
+      "q": "Si un pensamiento se siente real, debe ser cierto.",
+      "correctExplain": "Los sentimientos no son hechos. El TOC hace que los pensamientos parezcan urgentes y reales, pero no dejan de ser eso: pensamientos.",
+      "wrongExplain": "El hecho de que un pensamiento parezca real no significa que sea cierto. El TOC es complicado en ese sentido."
+    },
+    {
+      "q": "Aceptar un pensamiento es lo mismo que estar de acuerdo con él.",
+      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
+      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+    }
+  ]
+}

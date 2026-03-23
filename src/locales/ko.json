@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "PURE O OCD",
+    "title": "Thought or Truth?",
+    "description": "Swipe left for False / Swipe right for True!",
+    "details": "5 questions · true or false",
+    "button": "Let's Go! 🚀"
+  },
+  "before": {
+    "title": "Before we start",
+    "p1": "Our brain creates all kinds of thoughts every day — even scary or weird ones. That doesn't mean anything is wrong with you.",
+    "p2": "With Pure O OCD, the thought itself is not the problem. The problem is how much importance we give it.",
+    "button": "I'm Ready 💪"
+  },
+  "quiz": {
+    "questionCount": "Question {{current}} of {{total}}",
+    "falseHint": "👈 False",
+    "trueHint": "True 👉",
+    "correct": "✅ Correct!",
+    "incorrect": "❌ Not quite!",
+    "continue": "Continue →"
+  },
+  "results": {
+    "amazing": "Amazing!",
+    "niceTry": "Nice Try!",
+    "keepLearning": "Keep Learning!",
+    "scoreMsg": "You got {{score}} out of {{total}} correct",
+    "heartsMsg": "Hearts remaining: ",
+    "remember": "Remember: thoughts are just thoughts. They don't define who you are. 💜",
+    "tryAgain": "Try Again 🔄"
+  },
+  "questions": [
+    {
+      "q": "Having a violent thought means you're a dangerous person.",
+      "correctExplain": "Thoughts are not facts. Everyone has intrusive thoughts — they don't define you.",
+      "wrongExplain": "Actually, having a scary thought doesn't make you dangerous. Intrusive thoughts are normal."
+    },
+    {
+      "q": "Intrusive thoughts are experienced by almost everyone at some point.",
+      "correctExplain": "Research shows 90%+ of people experience intrusive thoughts. You're not alone!",
+      "wrongExplain": "Intrusive thoughts are actually very common — studies show almost everyone has them."
+    },
+    {
+      "q": "The more you try to suppress a thought, the more it comes back.",
+      "correctExplain": "This is called the 'white bear effect.' Suppression makes thoughts stickier.",
+      "wrongExplain": "It's actually true! Trying to push thoughts away makes them bounce back stronger."
+    },
+    {
+      "q": "If a thought feels real, it must be true.",
+      "correctExplain": "Feelings aren't facts. OCD makes thoughts feel urgent and real — but they're just thoughts.",
+      "wrongExplain": "Just because a thought feels real doesn't make it true. OCD is tricky that way."
+    },
+    {
+      "q": "Accepting a thought is the same as agreeing with it.",
+      "correctExplain": "Acceptance means letting a thought exist without fighting it — not endorsing it.",
+      "wrongExplain": "Acceptance ≠ agreement. You can notice a thought without believing or acting on it."
+    }
+  ]
+}
